@@ -1,0 +1,2 @@
+export const CFG={ballR:11,friction:.986,stop:4,maxPower:760,cushion:.91,ballBounce:.97,pocketR:23,colors:['#f2c230','#1769aa','#d62f36','#6f3fa0','#e66b25','#24834b','#7d1f25','#111111','#f2c230','#1769aa','#d62f36','#6f3fa0','#e66b25','#24834b','#7d1f25']};
+export const TABLES=[['Verde clássico','#16734a'],['Azul profissional','#176a9a'],['Vinho','#7a2638'],['Preto','#20242a'],['Roxo','#56357d'],['GameLab Neon','#087b75']];
